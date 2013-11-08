@@ -1,5 +1,5 @@
 {
 "selector": "source.js",
 "shell":true,
-"cmd": ["/Applications/mongodb-osx-x86_64-2.4.1/bin/mongo < $file"]
+"cmd": ["mongo < $file"]
 }
